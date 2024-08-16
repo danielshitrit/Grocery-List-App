@@ -1,3 +1,7 @@
+
+https://github.com/user-attachments/assets/2be0aadc-4fd8-441f-a05b-3a8feaf94060
+
+https://github.com/user-attachments/assets/5f7fad33-d275-415b-a566-101799ccf2bd
 # Grocery List App
 
 An iOS application for managing grocery lists, built with Swift and Firebase.
@@ -14,7 +18,7 @@ An iOS application for managing grocery lists, built with Swift and Firebase.
 
 ## Video
 
-Uploading Grocery List App Video.mov…
+https://github.com/user-attachments/assets/2c7260ef-18d7-4b43-a4f7-cc7d41a6c174
 
 ## Installation
 
