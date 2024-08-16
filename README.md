@@ -12,6 +12,11 @@ This is an iOS app for managing grocery lists, built using Swift, UIKit, and Fir
 - Settings to control sorting of items.
 - Persistent data storage using Firebase Firestore.
 
+## Technologies
+###Swift: Programming language used for iOS development.
+###Firebase Firestore: For real-time database and storage.
+###Firebase Storage: To store and retrieve images.
+ 
 ## Video
 
 https://github.com/user-attachments/assets/2c7260ef-18d7-4b43-a4f7-cc7d41a6c174
