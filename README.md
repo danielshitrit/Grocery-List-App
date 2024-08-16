@@ -2,7 +2,7 @@
 
 An iOS application for managing grocery lists, built with Swift and Firebase.
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-08-16 at 09 27 32](https://github.com/user-attachments/assets/2d54fe55-34aa-43c8-828a-570e4650f0fc) ![Simulator Screenshot - iPhone 15 Pro - 2024-08-16 at 09 27 49](https://github.com/user-attachments/assets/473ecf23-615a-408c-b61c-1c08059ba4f5) <![Simulator Screenshot - iPhone 15 Pro - 2024-08-16 at 09 27 57](https://github.com/user-attachments/assets/ea62fa58-c736-4dc4-9de1-118272346570)width="200" height="100">
+<img width="245" alt="Screenshot 2024-08-16 at 12 26 47" src="https://github.com/user-attachments/assets/07e5cf4b-739f-449a-aebd-1447bdd387d9">  <img width="245" alt="Screenshot 2024-08-16 at 12 27 15" src="https://github.com/user-attachments/assets/9e844b32-327b-47f6-b527-b954b47c04cd">  <img width="245" alt="Screenshot 2024-08-16 at 12 27 33" src="https://github.com/user-attachments/assets/6b79294c-2e05-416e-af71-8052b75c954c">  <img width="245" alt="Screenshot 2024-08-16 at 12 27 43" src="https://github.com/user-attachments/assets/a418d7ff-e7f7-46f6-a8e8-5dcaf03f2c47">
  
 ## Table of Contents
 - [Features](#features)
@@ -23,6 +23,8 @@ An iOS application for managing grocery lists, built with Swift and Firebase.
 - Persistent data storage using Firebase Firestore.
 
 ## Video
+
+
 
 
 ## Installation
